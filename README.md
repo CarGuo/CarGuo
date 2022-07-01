@@ -22,4 +22,4 @@ Wrote article on
 
 
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=CarGuo/gsy_github_app_flutter,CarGuo/GSYVideoPlayer,CarGuo/gsy_flutter_demo,CarGuo/gsy_flutter_book&type=Date)](https://star-history.com/#CarGuo/gsy_github_app_flutter&CarGuo/GSYVideoPlayer&CarGuo/gsy_flutter_demo&CarGuo/gsy_flutter_book&Date)
