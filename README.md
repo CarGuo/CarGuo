@@ -4,6 +4,7 @@
 
 
 - 🏅[Flutter & Dart GDE](https://developers.google.com/community/experts/directory/profile/profile-shuyu-asher-guo) 
+- 📘[Google Developer Blog](https://developers.googleblog.com/2022/08/becoming-a-Google-Developer-Expert-Shuyu-Asher-Guo.html?m=1)
 - 📖 [《Flutter开发实战详解》](https://item.jd.com/12883054.html) Author
 - 🚀[2021 GitHub China Top 99 Impact- CarGuo](https://opensource.win/CarGuo/)
 - 🌲Gitee：https://gitee.com/CarGuo 
