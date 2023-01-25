@@ -12,7 +12,7 @@
 - 🌲Gitee：https://gitee.com/CarGuo 
 
 
-| ![](./Copy of Experts_Stickers_01.gif)                                  | ![](./Copy of Experts_Stickers_02.gif)                                                          | ![](./Copy of Experts_Stickers_03.gif)                                                              | ![](./Copy of Experts_Stickers_04.gif)                                                       | ![](./Copy of Experts_Stickers_05.gif)       |
+| ![](./Copy%20of%20Experts_Stickers_01.gif)                                  | ![](./Copy%20of%20Experts_Stickers_02.gif)                                                          | ![](./Copy%20of%20Experts_Stickers_03.gif)                                                              | ![](./Copy%20of%20Experts_Stickers_04.gif)                                                       | ![](./Copy%20of%20Experts_Stickers_05.gif)       |
 | -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------ | -------------------------------------------- |
 
 
