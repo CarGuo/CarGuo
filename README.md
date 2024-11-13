@@ -10,7 +10,9 @@
 - 📖 [《Flutter开发实战详解》](https://item.jd.com/12883054.html) Author
 - 🔥[掘金优秀作者&签约作者](https://juejin.cn/user/817692379985752/posts)
 - 🚀[2021 GitHub China Top 99 Impact- CarGuo](https://opensource.win/CarGuo/)
-- 🌲Gitee：https://gitee.com/CarGuo 
+- 🌲Gitee：https://gitee.com/CarGuo
+- [![Star](https://gitcode.com/ZuoYueLiang/GSYVideoPlayer/star/badge.svg)](https://gitcode.com/ZuoYueLiang/GSYVideoPlayer/overview) gitcode: https://gitcode.com/ZuoYueLiang
+
 
 
 
