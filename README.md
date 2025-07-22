@@ -4,7 +4,8 @@
 [![Asher's GitHub stats](https://github-readme-stats.vercel.app/api?username=carguo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🏅[Flutter & Dart GDE](https://developers.google.com/profile/u/gsytech) 
+- 🏅[Flutter & Dart GDE](https://developers.google.com/profile/u/gsytech)
+- ✨[HDE](https://developer.huawei.com/consumer/cn/programs/personalCenter/personalCenterGuoShuYu)
 - 🏆[Open Source Peer Bonus Winners In 2022 - Asher Guo](https://opensource.googleblog.com/2022/09/announcing-the-second-group-of-open-source-peer-bonus-winners-in-2022.html)
 - 📘[Google Developer Blog](https://developers.googleblog.com/en/from-offstage-to-onstage-my-experience-of-becoming-a-google-developer-expert/)
 - 📖 [《Flutter开发实战详解》](https://item.jd.com/12883054.html) Author
