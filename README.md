@@ -8,7 +8,7 @@
 - ✨[HDE](https://developer.huawei.com/consumer/cn/programs/personalCenter/personalCenterGuoShuYu)
 - 🏆[Open Source Peer Bonus Winners In 2022 - Asher Guo](https://opensource.googleblog.com/2022/09/announcing-the-second-group-of-open-source-peer-bonus-winners-in-2022.html)
 - 📘[Google Developer Blog](https://developers.googleblog.com/en/from-offstage-to-onstage-my-experience-of-becoming-a-google-developer-expert/)
-- 📖 [《Flutter开发实战详解》]([https://item.jd.com/12883054.html](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=55960)) Author
+- 📖 [《Flutter开发实战详解》]([https://item.jd.com/12883054.html]) Author
 - 🔥[掘金优秀作者&签约作者](https://juejin.cn/user/817692379985752/posts)
 - 🚀[2021 GitHub China Top 99 Impact- CarGuo](https://opensource.win/CarGuo/)
 - 🌲Gitee：https://gitee.com/CarGuo
