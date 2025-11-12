@@ -1,7 +1,7 @@
 ### GSY’s Github
 
 
-[![Asher's GitHub stats](https://github-readme-stats.vercel.app/api?username=carguo)](https://github.com/anuraghazra/github-readme-stats)
+[![Asher's GitHub stats](https://github-readme-stats.vercel.app/api?username=carguo&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🏅[Flutter & Dart GDE](https://developers.google.com/profile/u/gsytech)
