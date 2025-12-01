@@ -1,7 +1,7 @@
 ### GSY’s Github
 
 
-[![Asher's GitHub stats](https://github-readme-stats.vercel.app/api?username=carguo&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Asher's GitHub stats](https://github-readme-stats-five-drab-84.vercel.app/api?username=carguo&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./logo.webp)
 
