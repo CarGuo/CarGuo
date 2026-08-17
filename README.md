@@ -33,5 +33,5 @@ Wrote article on
 | -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------ | -------------------------------------------- |
 
 
+![Star History Chart](https://star-history-eight.vercel.app/api/svg?repos=carguo/gsy_github_app_flutter,carguo/gsyvideoplayer,carguo/gsy_flutter_demo,carguo/gsy_flutter_book&type=Date)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CarGuo/gsy_github_app_flutter,CarGuo/GSYVideoPlayer,CarGuo/gsy_flutter_demo,CarGuo/gsy_flutter_book&type=Date)](https://star-history.com/#CarGuo/gsy_github_app_flutter&CarGuo/GSYVideoPlayer&CarGuo/gsy_flutter_demo&CarGuo/gsy_flutter_book&Date)
