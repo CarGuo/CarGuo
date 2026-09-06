@@ -1,0 +1,23 @@
+# profile card locals
+.env
+env.txt
+preview.html
+
+# Virtual env
+.venv/
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# One-off avatar source, not needed after art.json is generated
+tools/avatar.png

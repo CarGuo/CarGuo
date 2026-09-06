@@ -1,0 +1,18 @@
+# CarGuo profile card data. Update values here; no code edit needed.
+
+[github]
+user = "CarGuo"
+joined_year = 2011
+
+[career]
+start = 2012-07-01
+
+[about]
+kernel = "Flutter/Dart GDE, HarmonyOS HDE, Senior Mobile Engineer"
+
+[languages]
+programming = "Dart, Flutter, Kotlin, Java, Rust"
+
+[contact]
+juejin   = "juejin.cn/user/817692379985752"
+zhihu    = "zhihu.com/people/carguo"

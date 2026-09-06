@@ -1,3 +1,27 @@
+<p>
+  <img alt="CarGuo's GitHub profile card" src="dark_mode.svg">
+</p>
+
+<details>
+<summary>这张卡片是怎么来的</summary>
+
+- 卡片本身是一张 SVG（`dark_mode.svg`），由本仓库的 `gsy_profilecard` 包生成，只提供深色版本（避免白底下 ASCII 头像识别度差）。
+- 左侧字符画由 [tools/make_art.py](tools/make_art.py) 一次性从头像图 (`tools/avatar.png`) 生成 `art.json`。
+- 右侧字段来自 [profile.toml](profile.toml)（你要改文案，改这里就行；不用动代码）。
+- GitHub 数据（repos / stars / followers / commits / LOC）由 [.github/workflows/update.yml](.github/workflows/update.yml) 每天 04:17 UTC 自动刷新一次并 commit 回来。
+
+本地使用：
+
+```bash
+make install   # pip install -e ".[dev]"
+make update    # 重新生成 dark_mode.svg，需要在环境变量或 env.txt 中提供 ACCESS_TOKEN
+make test      # pytest
+```
+
+`ACCESS_TOKEN` 只需要 `read:user` + `public_repo` 权限。
+
+</details>
+
 ### GSY’s Github
 
 
