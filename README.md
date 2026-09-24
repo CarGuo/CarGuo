@@ -29,6 +29,9 @@ Credit: this card is inspired by and adapted from [glrodasz/glrodasz](https://gi
 
 [![Asher's GitHub stats](https://github-readme-stats-five-drab-84.vercel.app/api?username=carguo&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/carguo?theme=dark)](https://ghfind.com/u/carguo?ref=badge)
+
 ![](./logo.webp)
 
 - 🏅[Flutter & Dart GDE](https://developers.google.com/profile/u/gsytech)
